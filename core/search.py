@@ -1,4 +1,4 @@
-import re
+import re  # regex
 from unidecode import unidecode_expect_ascii  # great to remove accents
 
 __all__ = ["find"]

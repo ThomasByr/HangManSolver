@@ -6,12 +6,13 @@ __all__ = ["prettyprint"]
 
 def prettyprint(user_space: str, d: list):
     """
-    prints the user space in a readable way
+    prints the user space in a readable way\\
+    also laucnhes a scan and a search onto the input
 
     Parameters
     ----------
         user_space: str
-            the user space to be printed
+            the user input to be printed
         d: list
             list of words
     """
