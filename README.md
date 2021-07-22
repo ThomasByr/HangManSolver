@@ -19,5 +19,5 @@ Obviously some distribution of ``python``, python 3 is mandatory, project is bui
 ## Change log
 
 * initial release
-* changed dictionnary
+* changed dictionary
 * more user interraction
