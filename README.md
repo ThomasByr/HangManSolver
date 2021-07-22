@@ -2,6 +2,7 @@
 
 1. [Basic usage](#basic-usage)
 2. [Requirements](#requirements)
+3. [Change log](#change-log)
 
 > Ready to use with french dictionnary.
 
@@ -14,3 +15,9 @@ Use the app running ``python main.py``. You will be asked to enter an input, whi
 ## Requirements
 
 Obviously some distribution of ``python``, python 3 is mandatory, project is built with 3.9.6 but compatibility was made for 3.8.x versions (mainly by removing type hints). ``unidecode`` external library needed to deal with accents.
+
+## Change log
+
+* initial release
+* changed dictionnary
+* more user interraction
