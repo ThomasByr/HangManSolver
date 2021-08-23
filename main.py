@@ -25,4 +25,5 @@ if __name__ == "__main__":  # main
                 user_space = f"{prev[:i]}{user_space[1:]}{prev[i+n:]}"
         except ValueError:
             pass  # do nothing
+        prev = user_space
         prettyprint(user_space, d)
