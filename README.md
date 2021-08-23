@@ -6,7 +6,7 @@
 
 > Ready to use with french dictionnary.
 
-Project not compiled yet, maybe in the future. Also look for new folder organisation.
+Project is not compiled yet, maybe in the future. Also look for new folder organisation.
 
 ## Basic usage
 
