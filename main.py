@@ -3,7 +3,7 @@ from core.user_space import *
 msg = u"---user input---\nformat : letters or dots then tested letters\nfor eg : .a.er aeiouls\n\n_"
 
 #! put path below
-with open("assets\\fr_dict.txt", "r", encoding="utf-8") as f:
+with open("assets\\ods6.txt", "r", encoding="utf-8") as f:
     d = f.readlines()  # list of lines
     d = [x.strip().lower() for x in d]  # lowercase w/o spaces
 
